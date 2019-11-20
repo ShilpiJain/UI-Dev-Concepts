@@ -1,2 +1,0 @@
-// Promises and Deffred
-// Callbacks

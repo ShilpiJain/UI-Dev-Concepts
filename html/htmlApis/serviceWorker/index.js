@@ -1,1 +1,0 @@
-// Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available).
