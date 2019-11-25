@@ -8,3 +8,4 @@
     • Callback functions
     • Self-Executing Function
     • Function Definition Expressions
+    • Arrow Function
